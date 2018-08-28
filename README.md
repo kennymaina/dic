@@ -1,5 +1,5 @@
 #pig-dice
-#### {Brief description of application}, {Date of current version}
+#### kenneth maina, 2018
 #### By **{List of contributors}**
 ## Description
 this is a game where you roll the specified dice as many times as you wish but if you are not sure of what you might
